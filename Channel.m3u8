@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,T SPORTS HD
 https://live-cdn.tsports.com/live-02/master_1920.m3u8
+#EXTINF:-1 ,DESI CHANNEL
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1 ,9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 ,EKUSHEY TV
