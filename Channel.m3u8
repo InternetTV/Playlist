@@ -115,3 +115,7 @@ http://80.80.80.80:8088/702/index.m3u8
 http://80.80.80.80:8088/801/index.m3u8
 #EXTINF:-1 ,Unknown_802
 http://80.80.80.80:8088/802/index.m3u8
+#EXTINF:-1 ,TEST 1
+https://vsj.short.gy/sonymaxhd.m3u8
+#EXTINF:-1 ,TEST 2
+http://mixbix.xyz:8080/live/cB9CUdnB4gYR/QHCXDWkhTBpR/236924.m3u8
