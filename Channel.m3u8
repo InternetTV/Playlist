@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,Sony liv
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Ten2_HD_MOB/Fallback/index.m3u8
 #EXTINF:-1 ,T SPORTS HD
 https://live-cdn.tsports.com/live-02/master_1920.m3u8
 #EXTINF:-1 ,E24
