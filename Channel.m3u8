@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 ,Sony liv
+#EXTINF:-1 ,Sony liv English
 https://jiotvbpkmob.cdn.jio.com/bpk-tv/Ten2_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1 ,Sony liv HD
+#EXTINF:-1 ,Sony liv Hindi
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Ten3_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 ,Sony liv HD English
 https://jiotvbpkmob.cdn.jio.com/bpk-tv/Ten2_HD_MOB/Fallback/Ten2_HD_MOB-audio_98835_eng=98800-video=2293600.m3u8
+#EXTINF:-1 ,Sony liv HD Hindi
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Ten3_HD_MOB/Fallback/Ten3_HD_MOB-audio_98835_hin=98800-video=2293600.m3u8
 #EXTINF:-1 ,T SPORTS HD
 https://live-cdn.tsports.com/live-02/master_1920.m3u8
 #EXTINF:-1 ,E24
