@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,Sangeet Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+#EXTINF:-1 ,Khushbo Bangla
+https://cdn3.pishow.tv/live/283/master.m3u8
 #EXTINF:-1 ,BTV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
 #EXTINF:-1 ,Sony TEN 5 HD
